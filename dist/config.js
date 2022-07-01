@@ -9,4 +9,4 @@ exports.default = {
         discord_js_1.Intents.FLAGS.GUILD_MESSAGES
     ]
 };
-//# sourceMappingURL=config.js.map
+//# sourceMappingURL=config.js.mapz//# sourceMappingURL=config.js.mapz
